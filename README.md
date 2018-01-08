@@ -31,3 +31,5 @@ my Logo trace, with proper boolean operations and a few transparent characters.
 
 The PNG files are what you may use for any rasterized stuff you may
 want to do.
+
+![SVG of the Laughing Man Logo](laughing_man.svg)
