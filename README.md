@@ -1,6 +1,8 @@
 Laughing Man Logo
 =================
 
+![PNG of the Laughing Man Logo](laughing_man_medium_500.png)
+
 Back in 2006 I created a trace of the Laughing Man Logo from the
 Anime "Ghost In The Shell - Stand Alone Complex 1st Gig". As the SVG and
 PNGs I released back then were a lot reused, I decided to rerelease
